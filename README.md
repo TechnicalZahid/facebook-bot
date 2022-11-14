@@ -73,7 +73,7 @@
 
  pkg uninstall python -y
 
- pkg install python-y
+ pkg install python -y
 
  git clone https://github.com/TechnicalZahid/facebook-bot.git
 
