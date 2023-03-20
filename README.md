@@ -79,4 +79,4 @@
 
  cd facebook-bot
 
- python3 Zking-bot.cpython-311.pyc
+ python Zking-bot.py
