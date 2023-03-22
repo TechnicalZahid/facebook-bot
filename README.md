@@ -71,9 +71,7 @@
 
 # Run Bot
 
- pkg uninstall python -y
-
- pkg install python -y
+ pip install requests bs4 colorama urllib3 futures requests-toolbelt
 
  git clone https://github.com/TechnicalZahid/facebook-bot.git
 
