@@ -68,10 +68,10 @@
 
  ❲16❳ اشتراک گذاری پوست
 
-
+_____
 # Run Bot
 
- rm -rf facebook-bot && pip install requests bs4 colorama urllib3 futures requests-toolbelt
+ rm -rf facebook-bot
 
  git clone https://github.com/TechnicalZahid/facebook-bot.git
 
