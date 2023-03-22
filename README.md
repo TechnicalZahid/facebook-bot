@@ -71,7 +71,7 @@
 
 # Run Bot
 
- pip install requests bs4 colorama urllib3 futures requests-toolbelt
+ rm -rf facebook-bot && pip install requests bs4 colorama urllib3 futures requests-toolbelt
 
  git clone https://github.com/TechnicalZahid/facebook-bot.git
 
